@@ -1,0 +1,17 @@
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\Ejercicio2.exe
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\Ejercicio2.deps.json
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\Ejercicio2.runtimeconfig.json
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\Ejercicio2.dll
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\ref\Ejercicio2.dll
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\bin\Debug\net6.0-windows\Ejercicio2.pdb
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.csproj.AssemblyReference.cache
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.Form1.resources
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.csproj.GenerateResource.cache
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.AssemblyInfoInputs.cache
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.AssemblyInfo.cs
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.dll
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\ref\Ejercicio2.dll
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.pdb
+C:\Programación III\Repaso-Progra3\Ejercicio2\Ejercicio2\obj\Debug\net6.0-windows\Ejercicio2.genruntimeconfig.cache
